@@ -1,0 +1,16 @@
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\bin\Debug\CGGeosModernUI.exe.config
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\bin\Debug\CGGeosModernUI.exe
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\bin\Debug\CGGeosModernUI.pdb
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.csproj.AssemblyReference.cache
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.csproj.SuggestedBindingRedirects.cache
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\MainWindow.g.cs
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\App.g.cs
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI_MarkupCompile.cache
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI_MarkupCompile.lref
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\MainWindow.baml
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.g.resources
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.Properties.Resources.resources
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.csproj.GenerateResource.cache
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.csproj.CoreCompileInputs.cache
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.exe
+H:\VS stuff\Projects\CarsonGamesGeos2\CarsonGamesGeos2\CGGeosModernUI\obj\Debug\CGGeosModernUI.pdb
